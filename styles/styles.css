@@ -1,0 +1,51 @@
+ div {
+    border-radius: 10px; 
+    height: 100px; 
+    margin: 10px; 
+    width: 100%; 
+    background-color: blue;
+}
+#red-box{
+    background-color: red;
+    width: 20%;
+}
+#purple-box{
+    background-color: purple;
+    width: 30%;
+}
+#orange-box{
+    background-color: orange;
+    height: 200px;
+}
+#cyan-box{
+    background-color: cyan;
+    width: 40%;
+}
+#pink-box{
+    background-color: pink;
+    width: 50%;
+}
+#teal-box{
+    background-color: teal;
+    width: 60%;
+}
+#magenta-box{
+    background-color: magenta;
+    height: 200px;
+}
+#yellow-box{
+    background-color: yellow;
+    width: 70%;
+}
+#black-box{
+    background-color: black;
+    width: 80%;
+}
+#grey-box{
+    background-color: grey;
+    width: 90%;
+}
+#blue-box{
+    background-color: blue;
+    height: 200px;
+}
